@@ -1,6 +1,5 @@
 # 💫About Me :
-Hello 👋, My name is Lester I am a Software Developer / Web Designer at
-Guerilla360 Integrated Solutions, and CodeHub - Founders/CTO.
+Hello 👋, My name is Lester I am a **Full Stack Developer**. I also love making Games with Unity Engine.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/lester.leal.3/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Linkedin.com/in/lester-leal-b50875219/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiktok.com/@lester_leal) 
