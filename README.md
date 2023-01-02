@@ -1,5 +1,7 @@
 # 💫About Me :
-Hello 👋, My name is Lester I am a **Full Stack Developer**. I also love making Games with Unity Engine.
+Welcome to my profile 👋! 
+
+My name is Lester Leal and I am a highly skilled software developer and web designer. In addition to my professional work, I am also a leader at CodeHub Philippines, where I strive to share my knowledge and expertise with students and aspiring developers. As a tech influencer and mentor, I am dedicated to helping others achieve their career goals in the tech industry. I am constantly seeking new challenges and opportunities to grow and make a positive impact in the field of software development and design.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/lester.leal.3/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Linkedin.com/in/lester-leal-b50875219/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiktok.com/@lester_leal) 
